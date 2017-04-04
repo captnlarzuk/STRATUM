@@ -1,2 +1,2 @@
 # STRATUM
-Multipurpose IRC encryption overlay.
+Apocalypse-enabled bash IRC encryption overlay client. 
